@@ -347,7 +347,7 @@ namespace Scheduling
         static void Main(string[] args)
         {
 
-            Directory.SetCurrentDirectory("C:\\Users\\97252\\Desktop\\לימודים\\תואר\\שנה ג\\סמסטר א\\מערכות הפעלה\\תרגילי בית\\תרגיל בית 2\\סופי ואחרון- להציג בהגנה השנייה\\תרגיל בית 2 גיל ועינבר עם כל התיקונים מושלם\\Scheduling\\Code files");
+            Directory.SetCurrentDirectory("Code files");
 
             sw = new StreamWriter("results.txt");
             sw.Close();
@@ -1016,3 +1016,4 @@ namespace Scheduling
         }
     }
 }
+
